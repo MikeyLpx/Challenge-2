@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.nav {
+  background-color: rgb(73, 51, 155);
+  list-style-type: none;
+  text-align: right; 
+}
+.nav li {
+  font-family: Arial, Helvetica, sans-serif;
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+}
+body {
+  background-color: rgb(30, 32, 36);
+}
+header {
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(50, 79, 206);
+}
+h1 {
+font-family: Arial, Helvetica, sans-serif;
+}
+
